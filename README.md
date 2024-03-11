@@ -10,6 +10,11 @@ Remember Me Checkbox: Users can choose to have their login credentials remembere
 Password Recovery: A "Forgot password?" link is provided for users who need assistance in recovering their passwords.
 Registration Option: Users who do not have an account can easily navigate to the registration page through the provided link.
 
+## Live link 
+The project was deployed on Netlify App
+https://65eec79e9184312086d5e6a4--timely-platypus-3bf241.netlify.app/
+
+
 ## Technologies Used
 -HTML5
 -CSS3
@@ -26,3 +31,4 @@ Irene Annah
 
 ## License
 This project is licensed under the MIT License. 
+
